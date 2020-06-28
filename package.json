@@ -9,8 +9,11 @@
   "author": "Remy Sharp <remy@leftlogic.com>",
   "dependencies": {
     "next": "^9.4.4",
+    "nookies": "^2.3.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "reactjs-popup": "^1.5.0",
+    "save": "^2.4.0"
   },
   "license": "ISC"
 }
